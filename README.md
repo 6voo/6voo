@@ -1,1 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=6voo)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+👋+I'm+Llumi!)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=6voo)
