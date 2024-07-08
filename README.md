@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+👋+I'm+Llumi!)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=6voo&color=000000)
 
--
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1369699897&color=%23323452&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rapper-606501021" title="Newest Artist ✭✭✭✭✭" target="_blank" style="color: #cccccc; text-decoration: none;">Newest Artist ✭✭✭✭✭</a> · <a href="https://soundcloud.com/rapper-606501021/wasnt" title="Speak The Truth.. Even If U Voice Shakes..Oh..Evn If Dey Laugh At U..Dnt Be Woried Whos Heart Breaks" target="_blank" style="color: #cccccc; text-decoration: none;">Speak The Truth.. Even If U Voice Shakes..Oh..Evn If Dey Laugh At U..Dnt Be Woried Whos Heart Breaks</a></div>
+discord: pzbm
