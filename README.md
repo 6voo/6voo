@@ -9,11 +9,10 @@
 --    cybersec, maldev, osint
 --            i <3 malware !!
 </pre>
-
-    
+<br><br>
 <img src="https://github.com/user-attachments/assets/bf30b6bb-f531-4976-8581-aa8f75177062" width="182" height="274" alt="image" />
 <br><br>
-![](https://komarev.com/ghpvc/?username=6voo&color=caa477)
+![](https://komarev.com/ghpvc/?username=6voo&color=CAA477)
 
 </div
 
