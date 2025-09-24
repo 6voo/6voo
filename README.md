@@ -9,7 +9,7 @@
          alt="Typing SVG" style="max-width: 100%; display: block;" />
 
 <pre>
--- programming >      python, c++, lua, web dev
+-- programming  >     python, c++, lua, web dev
 -- hobbies      >   gfx design, music/producing
 -- interests    >       cybersec, maldev, osint
 --                              i <3 malware !!
