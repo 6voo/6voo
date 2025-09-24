@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; height: 200px;">
 
-  <img src="https://github.com/user-attachments/assets/20b0f1d7-3cac-47dc-95fa-9f5ef118d175" width="auto" height="200px"
+  <img src="https://github.com/user-attachments/assets/20b0f1d7-3cac-47dc-95fa-9f5ef118d175" width="auto" height="200"
        style="height: 100%; width: auto; max-width: 30%; max-height: 200px; border-radius: 8px;" alt="image" align="right" />
 
   <div style="text-align: left; max-height: 100%; overflow: hidden;">
