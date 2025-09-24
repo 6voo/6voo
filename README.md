@@ -12,7 +12,7 @@
 -- programming >    python, c++, lua, web dev
 -- hobbies     >   gfx design, music/producing
 -- interests   >       cybersec, maldev, osint
---                          i <3 malware !!
+--                             i <3 malware !!
     </pre>
 
 <img src="https://komarev.com/ghpvc/?username=6voo&color=CAA477" alt="view counter" />
