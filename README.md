@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; height: 200px;">
 
   <img src="https://github.com/user-attachments/assets/21577464-f95d-4883-94a8-9230dadf3b5f"
-       style="height: 100%; border-radius: 8px;" alt="pfp" />
+       style="height: 100%; border-radius: 8px;" alt="pfp" align="right" />
 
   <div style="text-align: left; max-height: 100%; overflow: hidden;">
     
