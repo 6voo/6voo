@@ -10,8 +10,8 @@
 
 <pre>
 -- programming >    python, c++, lua, web dev
--- hobbies     >   gfx design, music/producing
--- interests   >       cybersec, maldev, osint
+-- hobbies      >   gfx design, music/producing
+-- interests    >       cybersec, maldev, osint
 --                             i <3 malware !!
     </pre>
 
