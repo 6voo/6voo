@@ -1,6 +1,6 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; height: 200px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; height: 250px;">
 
-  <img src="https://github.com/user-attachments/assets/f73b79ac-7838-4998-8862-87181be97704"
+  <img src="https://github.com/user-attachments/assets/20b0f1d7-3cac-47dc-95fa-9f5ef118d175"
        style="height: 100%; border-radius: 8px;" alt="pfp" align="right" />
 
   <div style="text-align: left; max-height: 100%; overflow: hidden;">
