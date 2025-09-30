@@ -10,7 +10,7 @@
 
 <pre width=200>
   * python, c++, lua, ++ web dev
-      cybersec, osint
+      cybersec, osint, reverse engineering
 
   "Hope begins in the dark, the stubborn hope that if you just 
   show up and try to do the right thing, the dawn will come."
