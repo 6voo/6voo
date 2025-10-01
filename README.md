@@ -9,7 +9,9 @@
          alt="Typing SVG" style="max-width: 100%; display: block;" />
 
 <pre width=200>
-  * python, c++, lua, ++ web dev
+aspring developer  /  cybersecurity enthusiast
+ ----------------------------------------------- 
+* python, c++, lua, web dev
       cybersec, osint, reverse engineering
 
   "Hope begins in the dark, the stubborn hope that if you just 
