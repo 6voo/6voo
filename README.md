@@ -9,7 +9,7 @@
          alt="Typing SVG" style="max-width: 100%; display: block;" />
 
 <pre width=200>
-aspring developer  \  cybersecurity enthusiast
+aspiring developer  |  cybersecurity enthusiast
  ----------------------------------------------- 
 * python, c++, lua, web dev
       cybersec, osint, reverse engineering
