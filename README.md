@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; height: 250px;">
 
-  <img src="https://github.com/user-attachments/assets/c8b4aff1-da8e-417f-97dd-041ff3a3880b1" height="300"
+  <img src="" height="300"
        style=" max-height: 300px; border-radius: 20px;" alt="image" align="right" />
 
   <div style="text-align: left; max-height: 100%; overflow: hidden;">
@@ -10,9 +10,16 @@
 
 <pre width=200>
 aspiring developer  |  cybersecurity enthusiast
- ----------------------------------------------- 
-* python, c++, lua, web dev
-      cybersec, osint, reverse engineering
+
+  　　　 　　／＞　　フ
+　　　 　　| 　_　 _ l
+　 　　 　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　   二つ
 
   "Hope begins in the dark, the stubborn hope that if you just 
   show up and try to do the right thing, the dawn will come."
