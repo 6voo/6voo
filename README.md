@@ -1,8 +1,4 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; height: 250px;">
-
-  <img src="" height="300"
-       style=" max-height: 300px; border-radius: 20px;" alt="image" align="right" />
-
   <div style="text-align: left; max-height: 100%; overflow: hidden;">
   
 
@@ -34,7 +30,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠭⠿⣧⣖⣼⡧⢦⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠢⢻⣔⣲⡿⢿⡽⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
-<img src="https://komarev.com/ghpvc/?username=6voo&color=acaaad" alt="view counter" />
+<img src="https://komarev.com/ghpvc/?username=6voo&color=000000" alt="view counter" />
 <br><br>
   </div>
 
